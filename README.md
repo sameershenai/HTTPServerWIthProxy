@@ -16,5 +16,5 @@ It serves html files from /public folder
 
 Proxy
 It uses https://github.com/donasaur/http-proxy-rules module
-> To add new proxy routing add  below line
-proxy.register("<sourceURL>", "<targetURL>");
+To add new proxy routing add below line
+> proxy.register("<sourceURL>", "<targetURL>");
